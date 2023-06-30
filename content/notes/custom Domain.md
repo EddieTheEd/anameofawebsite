@@ -15,3 +15,5 @@ GitHub has some [documentation on this](https://docs.github.com/en/pages/configu
 	![Example Configuration for Quartz](/notes/images/google-domains.png)*Example Configuration for Quartz*
 3. Wait 30 minutes to an hour for the network changes to kick in.
 4. Done!
+
+among usus
